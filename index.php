@@ -109,8 +109,13 @@ if($result_prodi) {
         <div class="mt-4">
             <a href="logout.php" class="btn btn-danger">Logout</a>
         </div>
+
+        <div class="mt-4">
+            <a href="../profil/profil.php" class="btn btn-warning">Edit Profil</a>
+        </div>
     </div>
     
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
 </body>
+
 </html>
